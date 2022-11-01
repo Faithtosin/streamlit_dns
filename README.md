@@ -1,2 +1,2 @@
 # streamlit_dns
-DNS utility Streamlit app 
+DNS utility built with Python and the Streamlit library. 
