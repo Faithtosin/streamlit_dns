@@ -2,10 +2,10 @@ import streamlit as st
 import dns.resolver
 
 """
-# DNS Utility  🙀 :heart_eyes_cat: 🔥 
+# DNS Utility  🙀 :heart_eyes_cat: 🔥 🔥 🔥 🔥 🔥 🔥 🔥 
 """
 
-domain_name=st.text_input('Domain name', 'google.com')
+domain_name=st.text_input('Domain name', 'yahoo.com')
 records=['A','AAAA','CNAME','MX','NS','SOA','TXT']
 
 # Basic DNS query
